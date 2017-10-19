@@ -1,0 +1,13 @@
+c:\users\qwe19\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\qwe19\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\qwe19\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\qwe19\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\qwe19\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\qwe19\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\qwe19\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\qwe19\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\qwe19\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\qwe19\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+C:\Users\qwe19\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.application
+C:\Users\qwe19\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
+C:\Users\qwe19\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.application
